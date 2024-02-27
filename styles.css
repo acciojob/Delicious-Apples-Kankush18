@@ -1,6 +1,15 @@
 /* your code here */
-.info_container{
-	/* display:flex: */
-	background-color:green;
-	
+.product{
+	display:flex;
+}
+.product__photo{
+	border:2px solid black;
+	background-color:red;
+}
+.photo_album>ul{
+	display:flex;
+}
+.product__info{
+	border:2px solid black;
+	background-color:blue;
 }
